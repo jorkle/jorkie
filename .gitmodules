@@ -1,0 +1,9 @@
+[submodule "components/server"]
+	path = components/server
+	url = git@github.com:jorkle/jorkie-server.git
+[submodule "components/console"]
+	path = components/console
+	url = git@github.com:jorkle/jorkie-console.git
+[submodule "components/agents"]
+	path = components/agents
+	url = git@github.com:jorkle/jorkie-agents.git
